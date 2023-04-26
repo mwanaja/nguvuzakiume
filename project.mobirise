@@ -1,3 +1,5 @@
+
+
 {
   "settings": {
     "name": "Nguvu Za Kiume",
@@ -9,7 +11,7 @@
         "primaryColor": "#005af0",
         "secondaryColor": "#00dcc0",
         "successColor": "#64bf46",
-        "infoColor": "#eb49e1",
+        "infoColor": "#eb49e1", 
         "warningColor": "#ff8f00",
         "dangerColor": "#ffdc00",
         "mainFont": "Inter",
